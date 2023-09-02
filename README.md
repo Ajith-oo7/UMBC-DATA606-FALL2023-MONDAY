@@ -12,9 +12,9 @@ Have worked as a data analyst for one year and am proficient in using tools like
 
 <h1  align="center"> WORK EXPERIENCE </h1>
 
-**Cognizant Techno Solutions** | Programme Analyst Trainee  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Chennai (IN)
+**Cognizant Techno Solutions** | Programme Analyst Trainee &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Chennai (IN)
 
-Provided Analytical support to  Business Teams via Data-driven solutions.	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 06/2020 – 04/2021
+Provided Analytical support to  Business Teams via Data-driven solutions.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;06/2020 – 04/2021
 
 **Hartford’s:** Part of the L1  Analytical team at Hartford Business.
 
