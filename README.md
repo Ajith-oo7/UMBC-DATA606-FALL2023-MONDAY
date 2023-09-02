@@ -5,7 +5,8 @@
 <img align="right" width="100" height="100" src="https://github.com/Ajith-oo7/UMBC-DATA606-FALL2023-MONDAY/blob/732c5f682efb35c50e574cacd7e66e0bcde08a88/Picture_1.jpg">
 <h4  align="center"> (+91) 7338910346 </h4>
 <div  align="center"><a href = "ajith.annavarapu007@gmail.com"> ajith.annavarapu007@gmail.com</a></div>
-<br /><br />
+<br />
+<br />
 <h1  align="center"> SUMMARY </h1>
 
 Have worked as a data analyst for one year and am proficient in using tools like **Mysql, Postgresql, Excel, Tableau, Python** for extracting, Visualizing, interpreting, and analyzing data to prepare detailed reports. I am currently seeking full-time opportunities where I can utilize my analytical skills to draw various insights over several datasets that can help make major decisions.
@@ -28,7 +29,7 @@ Provided Analytical support to  Business Teams via Data-driven solutions.&emsp;&
 * Brainstorming with the Lead Team to achieve data solutions for the innovative steps to increase clients satisfaction.
 <br />
 
-**Cognizant Techno Solutions**| Intern&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Chennai (IN)
+**Cognizant Techno Solutions** | Intern&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Chennai (IN)
 
 Part of the Cognizant Business Unit team; Received a  Placement Offer.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;01/2020 – 05/2020
 * Improved market reach by focusing on prospective consumers after reviewing data from several marketing channels and sources.
