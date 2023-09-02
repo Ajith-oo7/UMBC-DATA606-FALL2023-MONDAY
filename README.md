@@ -1,9 +1,8 @@
-# UMBC-DATA606-FALL2023-MONDAY
 
 
 <h1  align="center"> Annavarapu Ajith </h1>
 <h4  align="center"> (+91) 7338910346 </h4>
-<div  align="center"> ajith.annavarapu007@gmail.com </div>
+<div  align="center"><a href = "ajith.annavarapu007@gmail.com"> ajith.annavarapu007@gmail.com</a></div>
 
 
 <h1  align="center"> SUMMARY </h1>
@@ -46,6 +45,7 @@ B.Tech in Computer Science and Engineering &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 <h1  align="center"> PROJECTS </h1>
 
 **Chicago Crime Data Analysis Using Apache Spark and Big Data**
+
 * The primary goal of this project is to thoroughly examine the major categories of crimes that occurred in the city, track their trends over time, and identify the factors that influence how frequently they occur.
 * Apache spark is used for data reading, processing and querying.
 * For Visualizations, Existing Python tools such as matplotlib and seaborne are used. Supervised machine learning models were used to predict crime hot spots and other data-related attributes.
