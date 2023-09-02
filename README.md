@@ -26,9 +26,9 @@ Provided Analytical support to  Business Teams via Data-driven solutions.&emsp;&
 * Generating reports regularly from databases using SQL and organizing with Excel, Tableau for presentations, and weekly, monthly business reviews for a demographic breakdown .
 * Brainstorming with the Lead Team to achieve data solutions for the innovative steps to increase clients satisfaction.
 
-**Cognizant Techno Solutions**| Intern	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Chennai (IN)
+**Cognizant Techno Solutions**| Intern&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Chennai (IN)
 
-Part of the Cognizant Business Unit team; Received a  Placement Offer.	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;01/2020 – 05/2020
+Part of the Cognizant Business Unit team; Received a  Placement Offer.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;01/2020 – 05/2020
 * Improved market reach by focusing on prospective consumers after reviewing data from several marketing channels and sources.
 * Reduced features of a dataset by 52% to improve data quality by reducing complex data to simpler data, further useful for in-depth analysis and insight generation.
 * Used PostgreSQL to perform various analysis for sales growth services, service orders, and detecting inefficiencies in the sales process.
@@ -37,9 +37,9 @@ Part of the Cognizant Business Unit team; Received a  Placement Offer.	&emsp;&em
 
 <h1  align="center"> EDUCATION </h1>
 
-**Sathyabama University, Chennai**	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Chennai (IN)
+**Sathyabama University, Chennai**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Chennai (IN)
 
-B.Tech in Computer Science and Engineering &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;	06/2014 – 05/2020
+B.Tech in Computer Science and Engineering &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;06/2014 – 05/2020
 * GPA: 7.56
 * Worked on creating applications such as predicting doctors required based on symptoms, developed a database for hospital records, created a secured password generator for web applications and many more. 
 
