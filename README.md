@@ -1,8 +1,11 @@
 
 
+
 <h1  align="center"> Annavarapu Ajith </h1>
+<img align="right" width="100" height="100" src="https://github.com/Ajith-oo7/UMBC-DATA606-FALL2023-MONDAY/blob/732c5f682efb35c50e574cacd7e66e0bcde08a88/Picture_1.jpg">
 <h4  align="center"> (+91) 7338910346 </h4>
 <div  align="center"><a href = "ajith.annavarapu007@gmail.com"> ajith.annavarapu007@gmail.com</a></div>
+
 
 
 <h1  align="center"> SUMMARY </h1>
